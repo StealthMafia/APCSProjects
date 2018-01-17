@@ -1,5 +1,5 @@
 public class Birthday {  
-
+	import java.util.*; // to use Scanner
 
 	public static void main(String[] args) {
 		System.out.print( countFactors(24) );
@@ -21,5 +21,6 @@ public class Birthday {
 		return totalFactors; 
 
 
+		
 	}
 }
